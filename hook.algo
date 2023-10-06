@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Change the following values to suit your local setup.
 # Add this file on your .git/hooks/ and name it as 'pre-commit'
 #
